@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/curioustushaar/leetcode-solutions/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/curioustushaar/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/curioustushaar/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/curioustushaar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/curioustushaar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/curioustushaar/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/curioustushaar/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/curioustushaar/leetcode-solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/curioustushaar/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/curioustushaar/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/curioustushaar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/curioustushaar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/curioustushaar/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/curioustushaar/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/curioustushaar/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0486-predict-the-winner](https://github.com/curioustushaar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/curioustushaar/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/curioustushaar/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/curioustushaar/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/curioustushaar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
 | ------- |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/curioustushaar/leetcode-solutions/tree/master/0155-min-stack) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/curioustushaar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
