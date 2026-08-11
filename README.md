@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/curioustushaar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/curioustushaar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/curioustushaar/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/curioustushaar/leetcode-solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/curioustushaar/leetcode-solutions/tree/master/0204-count-primes) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/curioustushaar/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/curioustushaar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/curioustushaar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/curioustushaar/leetcode-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/curioustushaar/leetcode-solutions/tree/master/1510-stone-game-iv) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/curioustushaar/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/curioustushaar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/curioustushaar/leetcode-solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/curioustushaar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/curioustushaar/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/curioustushaar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/curioustushaar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/curioustushaar/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/curioustushaar/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/curioustushaar/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/curioustushaar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/curioustushaar/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
 |  |
