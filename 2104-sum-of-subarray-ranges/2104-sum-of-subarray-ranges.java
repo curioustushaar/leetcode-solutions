@@ -1,7 +1,7 @@
 class Solution {
     public long subArrayRanges(int[] arr) {
         int n = arr.length;
-        long sum = 0;  // int nahi
+        long sum = 0;  
 
         for (int i = 0; i < n; i++) {
 
