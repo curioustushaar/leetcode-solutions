@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/curioustushaar/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/curioustushaar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/curioustushaar/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/curioustushaar/leetcode-solutions/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/curioustushaar/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/curioustushaar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/curioustushaar/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/curioustushaar/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -301,4 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/curioustushaar/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/curioustushaar/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/curioustushaar/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
