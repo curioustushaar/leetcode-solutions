@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/curioustushaar/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/curioustushaar/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/curioustushaar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/curioustushaar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/curioustushaar/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/curioustushaar/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/curioustushaar/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/curioustushaar/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/curioustushaar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/curioustushaar/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/curioustushaar/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/curioustushaar/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/curioustushaar/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/curioustushaar/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/curioustushaar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/curioustushaar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/curioustushaar/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/curioustushaar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/curioustushaar/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -358,4 +361,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/curioustushaar/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/curioustushaar/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/curioustushaar/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
