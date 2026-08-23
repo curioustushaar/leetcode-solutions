@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/curioustushaar/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/curioustushaar/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/curioustushaar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/curioustushaar/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/curioustushaar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/curioustushaar/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/curioustushaar/leetcode-solutions/tree/master/0136-single-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/curioustushaar/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/curioustushaar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/curioustushaar/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/curioustushaar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/curioustushaar/leetcode-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/curioustushaar/leetcode-solutions/tree/master/1510-stone-game-iv) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/curioustushaar/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/curioustushaar/leetcode-solutions/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
