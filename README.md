@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/curioustushaar/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/curioustushaar/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/curioustushaar/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/curioustushaar/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/curioustushaar/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/curioustushaar/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/curioustushaar/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/curioustushaar/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/curioustushaar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/curioustushaar/leetcode-solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/curioustushaar/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/curioustushaar/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/curioustushaar/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/curioustushaar/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
