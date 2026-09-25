@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/curioustushaar/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/curioustushaar/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/curioustushaar/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/curioustushaar/leetcode-solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/curioustushaar/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/curioustushaar/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/curioustushaar/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/curioustushaar/leetcode-solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Simulation
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/curioustushaar/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/curioustushaar/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/curioustushaar/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/curioustushaar/leetcode-solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## String Matching
 |  |
 | ------- |
