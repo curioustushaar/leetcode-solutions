@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/curioustushaar/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/curioustushaar/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/curioustushaar/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2421-number-of-good-paths](https://github.com/curioustushaar/leetcode-solutions/tree/master/2421-number-of-good-paths) |
 | [2506-count-pairs-of-similar-strings](https://github.com/curioustushaar/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2788-split-strings-by-separator](https://github.com/curioustushaar/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/curioustushaar/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/curioustushaar/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/curioustushaar/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/curioustushaar/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2421-number-of-good-paths](https://github.com/curioustushaar/leetcode-solutions/tree/master/2421-number-of-good-paths) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/curioustushaar/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/curioustushaar/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/curioustushaar/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/curioustushaar/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/curioustushaar/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/curioustushaar/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2421-number-of-good-paths](https://github.com/curioustushaar/leetcode-solutions/tree/master/2421-number-of-good-paths) |
 | [2506-count-pairs-of-similar-strings](https://github.com/curioustushaar/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/curioustushaar/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/curioustushaar/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2421-number-of-good-paths](https://github.com/curioustushaar/leetcode-solutions/tree/master/2421-number-of-good-paths) |
 | [3310-remove-methods-from-project](https://github.com/curioustushaar/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/curioustushaar/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/curioustushaar/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/curioustushaar/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2421-number-of-good-paths](https://github.com/curioustushaar/leetcode-solutions/tree/master/2421-number-of-good-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -519,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/curioustushaar/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/curioustushaar/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Union-Find
+|  |
+| ------- |
+| [2421-number-of-good-paths](https://github.com/curioustushaar/leetcode-solutions/tree/master/2421-number-of-good-paths) |
 <!---LeetCode Topics End-->
