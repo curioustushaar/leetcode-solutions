@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/curioustushaar/leetcode-solutions/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/curioustushaar/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/curioustushaar/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/curioustushaar/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/curioustushaar/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/curioustushaar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/curioustushaar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/curioustushaar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/curioustushaar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/curioustushaar/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/curioustushaar/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/curioustushaar/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/curioustushaar/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/curioustushaar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/curioustushaar/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/curioustushaar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/curioustushaar/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/curioustushaar/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/curioustushaar/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/curioustushaar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/curioustushaar/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -310,16 +313,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/curioustushaar/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/curioustushaar/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/curioustushaar/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/curioustushaar/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/curioustushaar/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/curioustushaar/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/curioustushaar/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/curioustushaar/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/curioustushaar/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/curioustushaar/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -502,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/curioustushaar/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/curioustushaar/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/curioustushaar/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/curioustushaar/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -533,4 +540,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2421-number-of-good-paths](https://github.com/curioustushaar/leetcode-solutions/tree/master/2421-number-of-good-paths) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/curioustushaar/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
