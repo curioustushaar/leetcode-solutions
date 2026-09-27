@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/curioustushaar/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/curioustushaar/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/curioustushaar/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/curioustushaar/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/curioustushaar/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/curioustushaar/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/curioustushaar/leetcode-solutions/tree/master/1510-stone-game-iv) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/curioustushaar/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/curioustushaar/leetcode-solutions/tree/master/0831-masking-personal-information) |
 | [0940-distinct-subsequences-ii](https://github.com/curioustushaar/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/curioustushaar/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/curioustushaar/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/curioustushaar/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/curioustushaar/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -563,4 +565,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/curioustushaar/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/curioustushaar/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/curioustushaar/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
