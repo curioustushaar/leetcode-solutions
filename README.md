@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/curioustushaar/leetcode-solutions/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/curioustushaar/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/curioustushaar/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/curioustushaar/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/curioustushaar/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/curioustushaar/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/curioustushaar/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/curioustushaar/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/curioustushaar/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/curioustushaar/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/curioustushaar/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -580,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/curioustushaar/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/curioustushaar/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
