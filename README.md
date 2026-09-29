@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/curioustushaar/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/curioustushaar/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/curioustushaar/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0443-string-compression](https://github.com/curioustushaar/leetcode-solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/curioustushaar/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/curioustushaar/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/curioustushaar/leetcode-solutions/tree/master/0831-masking-personal-information) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/curioustushaar/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/curioustushaar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/curioustushaar/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/curioustushaar/leetcode-solutions/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/curioustushaar/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/curioustushaar/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/curioustushaar/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
