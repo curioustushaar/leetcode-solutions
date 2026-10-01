@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/curioustushaar/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/curioustushaar/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/curioustushaar/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/curioustushaar/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2421-number-of-good-paths](https://github.com/curioustushaar/leetcode-solutions/tree/master/2421-number-of-good-paths) |
 | [2506-count-pairs-of-similar-strings](https://github.com/curioustushaar/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2788-split-strings-by-separator](https://github.com/curioustushaar/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/curioustushaar/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/curioustushaar/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/curioustushaar/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/curioustushaar/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2421-number-of-good-paths](https://github.com/curioustushaar/leetcode-solutions/tree/master/2421-number-of-good-paths) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/curioustushaar/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/curioustushaar/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/curioustushaar/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/curioustushaar/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/curioustushaar/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/curioustushaar/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/curioustushaar/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/curioustushaar/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Enumeration
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/curioustushaar/leetcode-solutions/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/curioustushaar/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/curioustushaar/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/curioustushaar/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/curioustushaar/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/curioustushaar/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
