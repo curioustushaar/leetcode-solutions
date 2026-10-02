@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/curioustushaar/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/curioustushaar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/curioustushaar/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/curioustushaar/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/curioustushaar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/curioustushaar/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/curioustushaar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/curioustushaar/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/curioustushaar/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/curioustushaar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/curioustushaar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/curioustushaar/leetcode-solutions/tree/master/0169-majority-element) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/curioustushaar/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/curioustushaar/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
