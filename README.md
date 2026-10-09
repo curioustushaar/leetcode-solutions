@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/curioustushaar/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/curioustushaar/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/curioustushaar/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2390-removing-stars-from-a-string](https://github.com/curioustushaar/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/curioustushaar/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/curioustushaar/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2788-split-strings-by-separator](https://github.com/curioustushaar/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/curioustushaar/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/curioustushaar/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/curioustushaar/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/curioustushaar/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/curioustushaar/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/curioustushaar/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/curioustushaar/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/curioustushaar/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/curioustushaar/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/curioustushaar/leetcode-solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
